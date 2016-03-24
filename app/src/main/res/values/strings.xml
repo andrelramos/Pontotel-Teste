@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PontoTel Teste</string>
+    <string name="server_error_title">Server error</string>
+    <string name="server_connection_error">An error occurred when connecting to the server</string>
+    <string name="server_get_data_error">Error retrieving information from server</string>
+</resources>
